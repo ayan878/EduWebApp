@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EduWeb</string>
+    <string name="please_enter_the_otp_sent_to_you" />
+</resources>
